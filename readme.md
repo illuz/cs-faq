@@ -21,12 +21,12 @@
 
 ## CS 之路
 
-- 硬件：基础技能 (todo)
+- 软硬件：基础课程和技能 (todo)
 - 硬件：进阶方向与经验总结 (todo)
-- 软件：基础技能 (todo)
 - 软件：进阶方向与经验总结 (todo)
 - FAQ 时间（为啥我要学 XX 课程、技术） (todo)
 - 软素质 (todo)
+- 各个职业的路线 (todo)
 
 ## 大学 RPG 攻略
 
@@ -42,13 +42,14 @@
 
 ## 基本技能与工具
 
-- 如何解决问题 (todo)
-- 如何提问 (todo)
+- 如何解决问题 (doing)
+- 如何提问 (doing)
 - 如何从零开始学一门技术 (todo)
-- Linux vs Mac vs Windows (todo)
+- Linux vs Mac vs Windows (doing)
+- 如何学会使用 Linux (todo)
 - Linux 系工具 (todo)
-- Mac 系工具 (todo)
-- Windows 系工具 (todo)
+- Mac 系工具 (toing)
+- Windows 系工具 (toing)
 - 提高效率的工具 (todo)
 - 需要知道的几个网站 (todo)
 - Chrome vs Firefox vs XXX (todo)
@@ -57,7 +58,8 @@
 
 ## 几天点技能，受用一辈子
 
-- 盲打（不看键盘打字）
+- 盲打（不看键盘打字）(doing)
+- 如何写出优雅的代码 (todo)
 - 调试程序(Debug) (todo)
 - 科学上网 (todo)
 - Google Hack (todo)
