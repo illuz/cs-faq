@@ -21,12 +21,12 @@
 
 ## CS 之路
 
-- 软硬件：基础课程和技能 (todo)
-- 硬件：进阶方向与经验总结 (todo)
-- 软件：进阶方向与经验总结 (todo)
-- FAQ 时间（为啥我要学 XX 课程、技术） (todo)
-- 软素质 (todo)
-- 各个职业的路线 (todo)
+- [基础专业课程](docs/way-to-cs/README.md#基础专业课程) (todo)
+- [硬件：进阶方向与经验总结](docs/way-to-cs/README.md#硬件进阶) (todo)
+- [软件：进阶方向与经验总结](docs/way-to-cs/README.md#软件进阶) (todo)
+- [FAQ 时间（为啥我要学 XX 课程、技术）](docs/way-to-cs/README.md#基础专业课程) (todo)
+- [软素质](docs/way-to-cs/README.md#软素质) (todo)
+- [各个职业的路线](docs/way-to-cs/README.md#各个职业的路线) (todo)
 
 ## 大学 RPG 攻略
 
@@ -45,7 +45,7 @@
 - 如何解决问题 (doing)
 - 如何提问 (doing)
 - 如何从零开始学一门技术 (todo)
-- Linux vs Mac vs Windows (doing)
+- [Linux vs Mac vs Windows](docs/basic-tech/Linux-vs-Windows-vs-MacOS.md) (doing)
 - 如何学会使用 Linux (todo)
 - Linux 系工具 (todo)
 - Mac 系工具 (toing)
